@@ -1,0 +1,30 @@
+.music a{
+    align-items: center;
+    justify-content: center;
+}
+.video{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(108, 136, 136);;
+}
+.musicplay{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(133, 97, 97);
+}
+a{
+    color: rgb(16, 16, 16);
+}
+
+.Ganeshmusic{
+    border: 2px solid orange;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(209, 235, 175);
+    border-radius: 10px;
+    display: inline-block;
+   
+}
